@@ -1,16 +1,20 @@
-### Hi there 👋
+Thomas 👾
 
-<!--
-**thomas1329/thomas1329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there ! I'm a very young developer who loves JS, web development , java !
 
-Here are some ideas to get you started:
+❤️ Support me
+All my donations will be used to finance my projects. Make a donation on PayPal, or Buy me a coffe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on 
+
+Many small modules. A multifunctional bot with a dashboard. And some other projects...
+
+🏆 My most famous project 
+
+discord bot over 2,050  servers !
+
+Web that will guide you on easy way to build the dream website 
+
+
+🏓 Need help on one of my projects ?
+Join the support server by clicking (here)[https://discord.gg/nERQmYafqQ].
