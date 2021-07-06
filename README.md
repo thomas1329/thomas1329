@@ -6,7 +6,7 @@
   </p>
   <br />
   <p>
-    <a href="discord.gg/nERQmYafqQ"><img src="https://img.shields.io/discord/836907771269873674?color=blue&label=discord&logo=Support&logoColor=Join%20our%20community" alt="Discord server" /></a>
+    <a href="https://discord.gg/nERQmYafqQ"><img src="https://img.shields.io/discord/836907771269873674?color=blue&label=discord&logo=Support&logoColor=Join%20our%20community" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="NPM downloads" /></a>
     <a href="https://github.com/discordjs/discord.js/actions"><img src="https://github.com/discordjs/discord.js/workflows/Testing/badge.svg" alt="Build status" /></a>
