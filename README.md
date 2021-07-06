@@ -17,4 +17,4 @@ Web that will guide you on easy way to build the dream website
 
 
 🏓 Need help on one of my projects ?
-Join the support server by clicking (here)[https://discord.gg/nERQmYafqQ].
+Join the support server by clicking [here](https://discord.gg/nERQmYafqQ).
