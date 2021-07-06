@@ -15,7 +15,7 @@
 Hi there ! I'm a  developer who loves JS, web development , java , c++ and many more !
 
 ❤️ Support me
-All my donations will be used to finance my projects. Make a donation on PayPal, or Buy me a coffe.
+All my donations will be used to finance my projects. Make a donation on [payPal](https://paypal.me/thomaszv?locale.x=en_US), or Buy me a [coffe]().
 
 🔭 I’m currently working on 
 
