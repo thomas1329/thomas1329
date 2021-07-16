@@ -30,3 +30,5 @@ Web that will guide you on easy way to build the dream website
 
 🏓 Need help on one of my projects ?
 Join the support server by clicking [here](https://discord.gg/nERQmYafqQ).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas1329)](https://github.com/anuraghazra/github-readme-stats)
