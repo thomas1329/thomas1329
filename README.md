@@ -35,3 +35,7 @@ Join the support server by clicking [here](https://discord.gg/nERQmYafqQ).
 [<img src='icons8_github_100px.png' alt='github' height='40'>](https://github.com/thomas1329)  [<img src='download.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16461664/thomas-zovtov)  [<img src='icons8_website_100px.png' alt='website' height='40'>]( https://www.web-sj.com/)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas1329)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##☔ Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
