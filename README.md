@@ -2,7 +2,9 @@
 <div align="center">
   <br />
   <p>
-   <a href="https://imgbb.com/"><img src="https://i.ibb.co/XWXM0x6/LOGO.png" alt="LOGO" border="0"></a></a>
+   <img src="https://i.ibb.co/XWXM0x6/LOGO.png" alt="LOGO" border="0">
+ 
+   <img src="tumblr_ls4d3w5Jx61qazhhpo1_400.gif" width="500" >
   </p>
   <br />
   <p>
