@@ -4,7 +4,7 @@
   <p>
    <img src="https://i.ibb.co/XWXM0x6/LOGO.png" alt="LOGO" border="0">
  
-   <img src="tumblr_ls4d3w5Jx61qazhhpo1_400.gif" width="500" >
+   <img src="https://raw.githubusercontent.com/thomas1329/thomas1329/main/image_2022-11-07_210800853.png width="500" >
   </p>
   <br />
   <p>
